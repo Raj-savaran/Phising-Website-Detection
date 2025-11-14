@@ -8,11 +8,6 @@ This project helps users identify whether a given URL is **safe or phishing** us
 
 ---
 
-## 🇮🇳 Hindi Overview
-
-Ye system user se URL leta hai aur Machine Learning model ke through batata hai ki wo **safe hai ya phishing**. Python, Flask aur Jupyter Notebook ka use karke banaya gaya hai.
-
----
 
 ## 🧠 Technologies Used
 
